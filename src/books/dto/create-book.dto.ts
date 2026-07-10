@@ -1,8 +1,8 @@
-import { IsString, IsNotEmpty, IsInt, Min } from "class-validator";
+ï»¿import { IsString, IsNotEmpty, IsInt, Min } from "class-validator";
 
 export class CreateBookDto {
   @IsString()
-  @IsNotEmpty({ message: "El título es obligatorio" })
+  @IsNotEmpty({ message: "El tï¿½tulo es obligatorio" })
   title: string;
 
   @IsString()

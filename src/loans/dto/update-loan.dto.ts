@@ -1,4 +1,4 @@
-import { PartialType } from "@nestjs/mapped-types";
+﻿import { PartialType } from "@nestjs/mapped-types";
 import { CreateLoanDto } from "./create-loan.dto";
 import { IsString, IsOptional } from "class-validator";
 

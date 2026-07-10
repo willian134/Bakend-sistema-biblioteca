@@ -1,4 +1,4 @@
-{
+﻿{
   "build": {
     "builder": "nixpacks",
     "installCommand": "npm install --legacy-peer-deps",
